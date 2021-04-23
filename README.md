@@ -6,7 +6,7 @@ The dataset we provide consists of traces from three measurement campaigns in tw
 
 ## We collected traces in three measurement campaigns: FIRST, SECOND and THIRD. 
 
-Each file in the dataset is saved as a CSV file. The name of a sample file is in the format of "ENVIRONMENT_CAMPAIGN_SETTING_DATA.csv". For example, a sample file "OFFICE_FIRST_ch18 _timestamps.csv" means that this set of timestamps was collected in the OFFICE environment during the first campaign on IEEE 802.15.4 channel 18. 
+Each file in the dataset is saved as a CSV file. The name of a sample file is in the format of "ENVIRONMENT_CAMPAIGN_SETTINGS_DATA.log". For example, a sample file "OFFICE_FIRST_Ch18_timestamps.log" means that this set of timestamps was collected in the OFFICE environment during the first campaign on IEEE 802.15.4 channel 18. 
 
 ### FIRST:
 
