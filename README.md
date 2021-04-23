@@ -23,6 +23,4 @@
 
 ## What is included?
 	- timestamps of interference arrivals
-	- 2 metrics extracted from timestamps: Inter-Arrival Time (IAT) and number of arrivals
-	- 2D distribution of aforementioned 2 metrics
 
